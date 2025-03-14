@@ -4,7 +4,7 @@ import stripe
 app = Flask(__name__)
 
 # Use your own Stripe Secret key
-stripe.api_key = "sk_test_51QIaUbAIzSHuWUhhyeZTG6T7hP1buV5cjkCWFgVbDrIux7YXpwVOFoY9CQm2sOqgAEnIiYNZHs6fkMEbkO5EKNR500sxeg1FPs"  # Replace with your actual test key
+stripe.api_key = ""  # Replace with your actual test key
 
 @app.route('/pay', methods=['POST'])
 def process_payment():
