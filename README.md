@@ -1,6 +1,10 @@
 #Hello!
 
-## Thank you for viewing my project, today i will describe how to use it first however.
+## Thank you for viewing my project, today i will describe how to use!
+
+# Why did i create this?
+
+## I wanted to give a real very very simple overview of how credit cards are processed in the backend.
 
 # What does this do?
 
