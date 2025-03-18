@@ -1,6 +1,6 @@
 Hello!
 
-## Thank you for viewing my project, today i will describe how to the use the application
+## Thank you for viewing my project, today i will describe how to use the application.
 
 # Why did i create this?
 
